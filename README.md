@@ -1,7 +1,31 @@
 # Game-Arduino
 
 Este código implementa um jogo semelhante ao clássico "Dinossauro Corredor" do Google Chrome, adaptado para ser executado em um display LCD 16x2 com o auxílio de um Arduino. O jogo consiste em controlar um dinossauro que corre automaticamente, saltando sobre obstáculos no terreno.
+### Integrantes
+- Vyktor Nascimento
+- Elias Mascarenhas
+- João Miguel Freitas
+- Thaíssa Fernandes
+- Luan Martins
+- Priscila Maciel
+- Mariana Ferreira
 
+### Orientadores
+- Rafael Batista Duarte
+- Henrique Braga Foresti
+
+### Instituição
+- C.E.S.A.R. School
+
+### Componentes
+- 1 x Arduino UNO
+- 1 x LCD screen (16 x 2 character)
+- 1 x Electronics breadboard
+- 1 x I2C
+- 1 x Pushbutton switch
+- Solid-core hookup wire
+- 1 x USB cable
+  
 ### Estrutura do Código
 
 O código é dividido em várias partes para organizar a lógica e os elementos do jogo:
